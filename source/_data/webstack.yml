@@ -53,6 +53,11 @@ busuanzi:
 custom:
   head: |-
    <style>.xe-user-img>img{border-radius:0}</style>
+   <script>
+   var _hmt = _hmt || [];
+   (function() {var hm = document.createElement("script");hm.src = "https://hm.baidu.com/hm.js?a7b8bf41f1a0ce9fb8989b3e1f451637";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s);})();
+   </script>
+
   body: |- # 以下内容插入到</body>标签之前，可设置多行，注意每行开头至少四个空格
     <!-- 直接添加html内容即可 -->
     <!-- 可设置多行 -->
